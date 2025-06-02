@@ -1,0 +1,4 @@
+15342354,Juan Alberto Mejia,Oncologia
+2509081,Juan Bernardo Gomez,Patologia
+2509081,Juan Bernardo Gomez,Chequeo mensual
+2509081,Juan Bernardo Gomez,Patologia
